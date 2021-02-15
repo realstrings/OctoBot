@@ -18,4 +18,17 @@
   },
   "profile": "default",
   "accepted_terms": false
+  "trader-simulator":{
+  "enabled": true,
+  "fees": {
+      "maker": 0.07,
+      "taker": 0.07
+  },
+  "starting-portfolio": {
+    "BTC": 10,
+    "USDT": 1000,
+    "ETH": 2,
+    "DASH": 25
+  }
+}
 }
